@@ -2,8 +2,8 @@
 This repository contains the code used to reproduce the figures in the paper "Spatiotemporal co-dependency between macrophages and exhausted CD8+ T cells in cancer".
 
 To run this code, you will need the following:
-#Python (version 3.6 or higher)
-#Jupyter Notebook
+#Python (version 3.6 or higher),
+#Jupyter Notebook,
 #Matplotlib
 
 **#Statistical Tests**
